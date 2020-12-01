@@ -297,6 +297,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 #### PowerShell
 
 *Solutions to AoC in PowerShell.*
+* [sgruber94/awesome-advent-of-code2020](https://github.com/sgruber94/awesome-advent-of-code2020) ![Last Commit on GitHub]
 
 #### Python
 
